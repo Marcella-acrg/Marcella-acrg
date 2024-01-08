@@ -17,7 +17,7 @@
 </p>
 <br>
 
-- 🌱 No momento estou estudando java, spring boot e iniciei os estudos em angular ...
+- 🌱 No momento estou participando do bootcamp - Desenvolvimento em Backend com Kotlin - oferecido pela DIO.
 - 🚀 Recentemente conclui o Google Cloud Computing Foundations, adquirindo ainda os 4 selos de habilidades - skill badges, conforme, perfil público:
       https://www.cloudskillsboost.google/public_profiles/0ddb368f-a614-42b2-b5fd-a9938e936dc6?qlcampaign=4p-EDUCR-GCCFAcademyOCT23-BR_STUDENTS-29 
 - 📫 Meu email: marcellaacoelho@gmail.com<br>
@@ -26,7 +26,7 @@
 
 ### 📊 Metas:
 
-- 📂 Expandir meu portfólio
+- 📂 Expandir meu portfólio para atuar como desenvolvedora backend
 
 - 📈 Conseguir experiência na área
 
