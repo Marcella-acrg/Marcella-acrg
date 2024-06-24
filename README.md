@@ -17,8 +17,8 @@
 </p>
 <br>
 
-- 🌱 No momento estou participando do bootcamp - Desenvolvimento em Backend com Kotlin - oferecido pela DIO.
-- 🚀 Recentemente conclui o Google Cloud Computing Foundations, adquirindo ainda os 4 selos de habilidades - skill badges, conforme, perfil público:
+- 🌱 No momento estou participando do bootcamp - Desenvolvimento Java com IA - oferecido pela DIO.
+- 🚀 Conclui o Google Cloud Computing Foundations, adquirindo os 4 selos de habilidades - skill badges, conforme, perfil público:
       https://www.cloudskillsboost.google/public_profiles/0ddb368f-a614-42b2-b5fd-a9938e936dc6?qlcampaign=4p-EDUCR-GCCFAcademyOCT23-BR_STUDENTS-29 
 - 📫 Meu email: marcellaacoelho@gmail.com<br>
 
@@ -30,7 +30,7 @@
 
 - 📈 Conseguir experiência na área
 
-- 🤝 Adquirir conhecimento na área de Cyber Secutity, Red e/ou Blue Team. Trabalhei na área de prevenção à fraude de uma instituição financeira e gosto dessa parte de segurança.
+- 🤝 Especializar-me em java e adquirir conhecimento na área de Cyber Secutity, Red e/ou Blue Team. Trabalhei na área de prevenção à fraude de uma instituição financeira e gosto dessa parte de segurança.
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
