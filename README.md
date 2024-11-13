@@ -17,7 +17,7 @@
 </p>
 <br>
 
-- 🌱 No momento estou participando do bootcamp - Desenvolvimento Java com IA - oferecido pela DIO.
+- 🌱 Atualmente estou participando da 15º edição do Vem Ser DBC - Trilha de QA.
 - 🚀 Conclui o Google Cloud Computing Foundations, adquirindo os 4 selos de habilidades - skill badges, conforme, perfil público:
       https://www.cloudskillsboost.google/public_profiles/0ddb368f-a614-42b2-b5fd-a9938e936dc6?qlcampaign=4p-EDUCR-GCCFAcademyOCT23-BR_STUDENTS-29 
 - 📫 Meu email: marcellaacoelho@gmail.com<br>
@@ -26,11 +26,11 @@
 
 ### 📊 Metas:
 
-- 📂 Expandir meu portfólio para atuar como desenvolvedora backend
+- 📂 Expandir meu portfólio: fortalecer meus conhecimentos e experiências para atuar com mais confiança na área de desenvolvimento.
 
-- 📈 Conseguir experiência na área
+- 📈 Conquistar uma efetivação na DBC: mostrando evolução contínua nas habilidades de QA e potencial para agregar valor à equipe.
 
-- 🤝 Especializar-me em java e adquirir conhecimento na área de Cyber Secutity, Red e/ou Blue Team. Trabalhei na área de prevenção à fraude de uma instituição financeira e gosto dessa parte de segurança.
+- 🤝 Especializar-me em QA e continuar adquirindo conhecimentos na área de desenvolvimento, seja para aprimorar meus testes ou para novas oportunidades dentro da DBC.
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
