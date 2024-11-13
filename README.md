@@ -17,7 +17,7 @@
 </p>
 <br>
 
-- 🌱 Atualmente estou participando da 15º edição do Vem Ser DBC - Trilha de QA.
+- 🌱 Atualmente estou participando da 15ª edição do Vem Ser DBC - Trilha de QA.
 - 🚀 Conclui o Google Cloud Computing Foundations, adquirindo os 4 selos de habilidades - skill badges, conforme, perfil público:
       https://www.cloudskillsboost.google/public_profiles/0ddb368f-a614-42b2-b5fd-a9938e936dc6?qlcampaign=4p-EDUCR-GCCFAcademyOCT23-BR_STUDENTS-29 
 - 📫 Meu email: marcellaacoelho@gmail.com<br>
@@ -40,7 +40,7 @@ Estas são algumas das tecnologias e ferramentas que adquiri conhecimento :
 
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,html,css,javascript,bootstrap,py," />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,git," />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,cypress,git," />
 </div>
 <br>
 
