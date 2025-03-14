@@ -17,7 +17,7 @@
 </p>
 <br>
 
-- 🌱 Atualmente estou participando da 15ª edição do Vem Ser DBC - Trilha de QA.
+- 🌱 Atualmente, além da faculdade, estou realizando um curso de fullstack que aborda tecnologias como REACT e JAVA com springboot. 
 - 🚀 Conclui o Google Cloud Computing Foundations, adquirindo os 4 selos de habilidades - skill badges, conforme, perfil público:
       https://www.cloudskillsboost.google/public_profiles/0ddb368f-a614-42b2-b5fd-a9938e936dc6?qlcampaign=4p-EDUCR-GCCFAcademyOCT23-BR_STUDENTS-29 
 - 📫 Meu email: marcellaacoelho@gmail.com<br>
@@ -26,11 +26,11 @@
 
 ### 📊 Metas:
 
-- 📂 Expandir meu portfólio: fortalecer meus conhecimentos e experiências para atuar com mais confiança na área de desenvolvimento.
+- 📂 Expandir meu portfólio: fortalecer meus conhecimentos e experiências para atuar com mais confiança na área de desenvolvimento ou de Quality Assurance.
 
-- 📈 Conquistar uma efetivação na DBC: mostrando evolução contínua nas habilidades de QA e potencial para agregar valor à equipe.
+- 📈 Conquistar uma efetivação: mostrando evolução contínua nas habilidades de desenvolvimento ou de QA e potencial para agregar valor à equipe.
 
-- 🤝 Especializar-me em QA e continuar adquirindo conhecimentos na área de desenvolvimento, seja para aprimorar meus testes ou para novas oportunidades dentro da DBC.
+- 🤝 Especializar-me e continuar adquirindo conhecimentos para aprimorar meus códigos.
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -39,8 +39,8 @@
 Estas são algumas das tecnologias e ferramentas que adquiri conhecimento :
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,html,css,javascript,bootstrap,py," />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,cypress,git," />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,html,css,javascript,bootstrap,reactjs" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,cypress,restAssurance,git," />
 </div>
 <br>
 
