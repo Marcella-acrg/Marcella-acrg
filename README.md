@@ -6,7 +6,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=D2691E&size=25&lines=Bem+-+vindo(a)+ao+meu+GITHUB..." /></a>
 </h3>
 
- ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 👩🏻‍💻 Sobre mim:
 
@@ -22,7 +22,7 @@
       https://www.cloudskillsboost.google/public_profiles/0ddb368f-a614-42b2-b5fd-a9938e936dc6?qlcampaign=4p-EDUCR-GCCFAcademyOCT23-BR_STUDENTS-29 
 - 📫 Meu email: marcellaacoelho@gmail.com<br>
 
- ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 📊 Metas:
 
@@ -40,7 +40,7 @@ Estas são algumas das tecnologias e ferramentas que adquiri conhecimento :
 
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,html,css,javascript,bootstrap,react,nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,cypress,git," />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,cypress,git,discord" />
 </div>
 <br>
 
