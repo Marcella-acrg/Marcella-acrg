@@ -40,7 +40,7 @@ Estas são algumas das tecnologias e ferramentas que adquiri conhecimento :
 
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,html,css,javascript,bootstrap,react,nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,cypress,rest-assured,git," />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,cypress,git," />
 </div>
 <br>
 
