@@ -39,8 +39,8 @@
 Estas são algumas das tecnologias e ferramentas que adquiri conhecimento :
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,html,css,javascript,bootstrap,react,nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,idea,vscode,figma,github,cypress,git,discord" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,html,css,javascript,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=postgres,gcp,idea,vscode,figma,github,cypress,git,discord" />
 </div>
 <br>
 
