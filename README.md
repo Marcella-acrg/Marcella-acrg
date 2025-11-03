@@ -1,6 +1,6 @@
 <h2 align="center">👋 Olá, Devs! Eu sou a Marcella Araújo!</h2>
 <p align='center'>
-  Estudante do 4º período de Sistemas para Internet | UNIESP
+  Formada em Sistemas para Internet | UNIESP e Ciências Contábeis | UFPB
 </p>
 <h3 align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=D2691E&size=25&lines=Bem+-+vindo(a)+ao+meu+GITHUB..." /></a>
@@ -12,12 +12,12 @@
 
 <p>
   <em>
-    Em processo de transição de carreira, atualmente, estou no 4º período do curso de sistemas para internet na UNIESP. Iniciei essa jornada por incentivo de um irmão que é desenvolvedor e surpreendentemente quanto mais eu aprendo e passo raiva, mais eu me apaixono pelo mundo tech! 😄🧡
+    Sou formada em Sistemas para Internet pela UNIESP e em Ciências Contábeis pela UFPB. Iniciei essa jornada no mundo tech por incentivo de um irmão que é desenvolvedor e surpreendentemente quanto mais eu aprendo e passo raiva, mais eu me apaixono pela área! 😄🧡
   </em>
 </p>
 <br>
 
-- 🌱 Atualmente, além da faculdade, estou realizando um curso de Fullstack que abrange tecnologias como React e Java com Spring Boot. 
+- 🌱 Atualmente, estou realizando um curso de Fullstack oferecido pela +Prati e pela Codifica que abrange tecnologias como React e Java com Spring Boot. 
 - 🚀 Conclui o Google Cloud Computing Foundations, adquirindo os 4 selos de habilidades - skill badges, conforme, perfil público:
       https://www.cloudskillsboost.google/public_profiles/0ddb368f-a614-42b2-b5fd-a9938e936dc6?qlcampaign=4p-EDUCR-GCCFAcademyOCT23-BR_STUDENTS-29 
 - 📫 Meu email: marcellaacoelho@gmail.com<br>
